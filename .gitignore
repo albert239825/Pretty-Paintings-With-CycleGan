@@ -131,3 +131,4 @@ dmypy.json
 # Monet2Photo Dataset
 
 data/*
+photo2monet.npz
